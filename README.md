@@ -1,21 +1,5 @@
 README
 ## Структура проекта
-project-root/
-├─ bug-reports/
-│   ├─ screenshots/
-│   ├─ bug-reports.xlsx
-│   └─ testit_import_test_yaroute.xlsm
-├─ mindmaps/
-│   ├─ mindmaps
-├─ miscellaneous/
-│   └─ report.pdf
-├─ test-cases/
-│   ├─ test-cases.xlsx
-│   └─ testing.xlsx
-├─ test-documentation/
-│   ├─ README.md
-│   └─ test-plan.md
-└─ README.md
 
 # Mindmaps
 *Расположены в папке mindmaps/.
